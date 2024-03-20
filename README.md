@@ -22,7 +22,7 @@
 
 ## Comentários 
 
-Projeto que foi desenvolvido, em 2023 época que estava cursando o ensino técnico na ETEC de Itaquera, sendo trabalho final para a matéria de Programação WEB 
+Projeto que foi desenvolvido, durante o ensino técnico na ETEC de Itaquera, sendo trabalho final para a matéria de Programação WEB 
 
 ## Tecnologias
 
